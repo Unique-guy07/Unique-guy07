@@ -1,16 +1,43 @@
-## Hi there 👋
+# Hi 👋 I'm Chetan Mandlik
 
-<!--
-**Unique-guy07/Unique-guy07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech Computer Engineering student  
+🏫 Vishwakarma Institute of Technology (VIT), Pune  
+📚 1st Year Student  
 
-Here are some ideas to get you started:
+🌱 Currently learning:  
+- C Programming  
+- Python  
+- Web Development  
+- Git & GitHub  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 👨‍💻 About Me
+- I am a Computer Engineering student passionate about technology  
+- Interested in software development and problem solving  
+- Actively building projects to improve my coding skills  
+
+---
+
+## 🛠 Skills
+- **Programming Languages:** C, Python  
+- **Tools & Technologies:** Git, GitHub  
+- **Currently Exploring:** Web Development  
+
+---
+
+## 📂 Projects
+- 🔹 Academic projects (Coming soon)
+- 🔹 Practice programs and mini projects
+
+---
+
+## 🎯 Goals
+- Strengthen core programming concepts  
+- Build real-world projects  
+- Contribute to open-source  
+- Secure internships during my degree  
+
+---
+
+⭐ Thank you for visiting my GitHub profile!
