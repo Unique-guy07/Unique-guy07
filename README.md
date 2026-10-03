@@ -2,7 +2,7 @@
 
 🎓 B.Tech Computer Engineering student  
 🏫 Vishwakarma Institute of Technology (VIT), Pune  
-📚 1st Year Student  
+📚 2nd Year Student  
 
 🌱 Currently learning:  
 - C Programming  
